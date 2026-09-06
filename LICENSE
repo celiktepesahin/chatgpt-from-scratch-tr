@@ -192,7 +192,7 @@
    Copyright 2026 Sahin Celiktepe
 
    Portions Copyright 2023-2026 Sebastian Raschka
-   (see the README for source attribution and list of changes)
+   Code adapted from https://github.com/rasbt/LLMs-from-scratch (Apache 2.0)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
