@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.safetensors
+*.pth
+*.ckpt
+.DS_Store
+Thumbs.db
+desktop.ini

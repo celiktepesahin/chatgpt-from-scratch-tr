@@ -1,0 +1,296 @@
+A sentence is a chain--each link holds the next--and the links are not all of the same kind. Some
+carry a meaning of their own: rain, falls, cold, river. Others carry almost none, and would be
+hard to draw or point at: the, of, and, to, is. Take the second kind away and what remains is a
+list. "Rain river stone" is three things standing next to each other. "The rain fills the river
+and the river moves the stone" is an account of something that happened. The words that made the
+difference are the ones that mean the least on their own.
+
+It is worth asking what a word is, because the answer is less obvious than it looks. A speaker
+does not pause between words. Speech is continuous, and the ear does the dividing. Ask where one
+word ends in a spoken line and the answer comes from what the listener already knows, not from
+anything present in the sound. On the page the divisions are marked, but the marking is a
+convention and the convention has ragged edges. Is "riverbed" one word or two? English writes
+that one closed up, writes "river bank" open, and allows "riverside" either way in older books.
+The thing described is the same in all three cases: a thing and the thing beside it. What differs
+is where a printer decided to put a space.
+
+The space itself had to be invented. Latin and Greek were written for centuries without it,
+letter after letter across the line, and a reader worked out the divisions aloud as he went. Word
+spacing spreads through western manuscripts ca. 700 and is general by 1000. It took hold because
+it made silent reading possible: the eye can take in a spaced line at a glance, while an unspaced
+line has to be sounded out before it can be understood. Nothing about the language changed. What
+changed was the amount of work the reader had to do, and the space is doing that work for anyone
+reading this line now.
+
+Words that name things are the easiest to collect. Stone, leaf, water, frost, root, wing, sand,
+seed, cloud, salt, bark, tide. Each one points at something a person could carry or stand in, and
+the pointing is the whole of what it does. Names come in ranks. "Oak" names a kind of tree,
+"tree" names a kind of plant, "plant" names a kind of living thing, and each step upward covers
+more ground and says less about any of it. A speaker who wants to be exact goes down the ranks; a
+speaker who wants to be brief goes up them. Neither direction is more correct, and most sentences
+move between them without anyone noticing.
+
+A name in English changes shape when there is more than one of the thing. One stone, two stones.
+One leaf, two leaves. One root, two roots. The change is small, it is carried at the end of the
+word, and it is not optional: "two stone" is wrong in a way a listener hears before he can say
+why. Some names refuse the change altogether. Water, sand, snow, and dust have no plural, because
+they are not counted but measured; a speaker says "much sand" and "many stones" and does not mix
+the two. The line between the countable and the measured is not drawn by nature. It is drawn by
+the language, and another language draws it in a different place.
+
+A word is often built out of smaller pieces, and the pieces can be recognised even inside a word
+that has never been seen before. Take "frost": add an ending and it becomes "frosted"; add a
+different one and it becomes "frosty"; put a piece in front and it becomes "defrost". None of
+those endings means anything by itself, and none of them can stand alone on a page, but each does
+a definite job and does the same job wherever it turns up. This is why a reader who meets
+"unrootedness" for the first time can work out what it has to mean without looking it up: un-,
+root, -ed, -ness, four pieces each doing a known job in a known order. The pieces are far fewer
+than the words, and that is the point of having them. A language that built every word whole
+would need a separate name for every shade of every idea. A language that builds words out of
+parts can make the shade it needs on the spot and still be understood.
+
+Words that name what happens carry a different load. Falls, froze, grows, will break. Besides
+saying what occurred, they say when, and they say it either by changing their own shape or by
+taking a helper in front of them. "The river freezes" and "the river froze" differ by one vowel,
+and that vowel is the difference between now and over. Some of these words change by rule and
+some by inheritance: walked, worked, waited, but froze, grew, broke. The irregular ones are the
+old and common ones, which is not an accident. A form keeps its irregularity in proportion to how
+often it is used, because a form that is heard every day is learned as itself and never gets
+flattened into the pattern.
+
+The joints of a sentence are its conjunctions, and there are surprisingly few of them. And, but,
+or, so, for, yet, because, although, if, while, until, unless. They carry no picture at all, and a
+reader asked to draw "although" has nothing to draw, and yet they decide what the sentence is
+claiming. "The frost came AND the seed split" reports two events. "The frost came SO the seed
+split" reports a cause. "The frost came BUT the seed held" reports a resistance. The two events
+are unchanged in all three lines. Only the joint moved, and the joint turns out to be where the
+meaning of the whole was kept.
+
+Turning a statement into a question, or into a denial, takes machinery of its own. "The ice held"
+is denied by putting a word inside it: "the ice did not hold", where a helper appears that was not
+there before and the main word gives up its ending. It is questioned by moving that same helper to
+the front: "did the ice hold?" English does both jobs with one small set of helpers--do, did,
+does, is, was, has, can, will--and the same handful serves throughout. Other languages need
+neither arrangement. Some mark a question with a single particle at the end of the line and change
+nothing else; some mark it only with the pitch of the voice, and in writing only with the mark at
+the end. What all of them share is that the machinery is small, regular, and used constantly,
+which is the usual description of the parts of a language that are hardest to notice.
+
+A second small set of words fixes position. On, under, over, through, beside, before, after,
+between, against, along. "The moss grows on the stone" and "the moss grows under the stone" use
+the same four other words and describe two different places. Most of these began as words about
+space and were then pressed into service for time: before the rain and before the door, after the
+frost and after the gate. The extension is so old that a speaker no longer feels it as one, and
+asking whether "before" is really about space or really about time gets no answer, because it has
+been about both for as long as there is any record of it.
+
+Position carries information in English that other languages carry in endings. "The wind moved
+the sand" and "the sand moved the wind" contain exactly the same five words and state opposite
+things, and nothing but the order tells them apart. This makes English word order rigid where it
+matters and loose where it does not. The doer comes first and the thing done comes last, but a
+phrase about time or place can sit at either end: "in the morning the frost lifted" and "the
+frost lifted in the morning" are both ordinary. Move that same phrase into the middle and the
+line stops sounding like speech and starts sounding like verse.
+
+Three of the commonest words in the language do nothing except tell a reader whether a thing has
+been mentioned before. A, an, the. "A river runs below the hill" introduces the river. "The river
+runs below the hill" assumes the reader already has it in hand. Nothing is added to the river
+either way, and a great many languages do without the distinction entirely. In English it is not
+optional, and a sentence that drops it does not become ambiguous so much as foreign.
+
+Words that narrow a name stand in front of it: cold water, dry sand, black stone, thin ice. They
+can be stacked, and when they are stacked the order is fixed by a rule that no speaker is ever
+taught. Size comes before age, age before colour, colour before material, so "a small old grey
+stone wall" is ordinary and "a grey old small stone wall" is not. Ask a speaker to state the rule
+and he will not produce it. Give him a list in the wrong order and he will correct it without
+hesitating. This is the ordinary condition of grammar: it is known, and it is not known about.
+
+A short set of words stands in for a name already given. It, they, this, that, one. Their whole
+usefulness lies in being empty. "The pine grew beside the stream until it fell" costs less than
+repeating the pine, and a reader has no trouble supplying what is meant. But the emptiness has a
+price. In "the pine grew beside the stream until it dried", the same small word now points at the
+stream instead, and the only thing that decided the matter was the verb at the end. Change one
+word in the last position and a word in the middle changes what it refers to. No mark anywhere on
+the line records that the change took place.
+
+Some marks on a line are not words at all. The period, the comma, the colon, the semicolon, the
+question mark, the pair of quotation marks. They belong to writing rather than to speech; a
+speaker uses pitch and pause where a writer uses these. Their work is real. "The rain stopped,
+and the wind rose" and "the rain stopped and the wind rose" differ only in the size of the break,
+which is a small thing. "What remains, is water" and "what remains is water" differ in whether
+the line sounds broken, which is not small at all. And one mark can turn a statement into a
+question. Consider: you know the answer. Now consider: do you know the answer?
+
+Every letter in the alphabet has two forms, and the second form carries no sound of its own.
+"Stone" and "stone" are the same word said the same way, and what separates them is only where
+they stand: one begins a line, the other does not. The capital does other work besides. It marks a
+name, so that "frost" and "Frost" can be a thing and a place. It can mark emphasis, when a whole
+word is set that way. What it never marks is a difference in the word itself, which means the two
+forms are one word wearing two coats--and also means that anything counting the forms of words on
+a page will count them as two unless it is told otherwise. The two-form system is not universal.
+Several writing systems have one form per sign and lose nothing by it, and the readers of those
+systems do not report any difficulty telling a name from a common word.
+
+One mark does two unrelated jobs, and it causes more trouble than all the others together. The
+apostrophe marks possession: the river's mouth, the tree's shadow, the season's end. It also
+marks a letter that has been left out: "it's" standing for "it is", "don't" for "do not". The two
+uses are identical on the page, and a reader tells them apart from the sentence around them,
+which is to say he tells them apart from nothing that is written down. Consider a line that uses
+the first sense twice: "The river's mouth was wide, and the tree's shadow fell across it." Now
+consider "the stone's edge" beside "the stone's cold". Those are the same three characters doing
+two different jobs, and only the words that follow decide which job it is.
+
+The same string of letters can carry two readings, and a reader usually chooses one without
+noticing that a choice was available. "The old man the boats" stops most readers on the first
+pass, because "man" is being used as a verb and "old" as a name for a group of people. "Time
+flies like an arrow" has four readings and only one of them is about time. Ambiguity of this kind
+is not a defect. It is what happens when a small set of forms is made to cover an unlimited set of
+situations, and the alternative--a distinct form for every meaning--would need a vocabulary that
+nobody could finish learning.
+
+Sometimes the meaning of a phrase cannot be got from the meanings of its words. "The frost broke"
+can be worked out from the parts. "It broke the ice" cannot, if what is meant is that someone made
+a difficult conversation easier. The words are ordinary and the grammar is ordinary, and yet the
+whole is something a reader either knows or does not. Every language is full of these, and they are
+learned the way single words are learned, one at a time and by exposure. This is a real limit on
+the idea that a sentence is assembled out of its words. Most sentences are. Some are assembled out
+of longer pieces that merely happen to be made of words, and the joins inside those pieces are not
+available for taking apart.
+
+Count the words in a long enough passage and a pattern appears that has nothing to do with the
+passage. A few words are everywhere: the, of, and, to, a, in, is, that. A great many appear once
+and never again. In ordinary English the commonest word will usually account for about one word in
+sixteen, the second commonest about half as often, the third about a third as often, and the
+series continues in that shape whatever the subject happens to be. The words at the top of the
+list carry the least meaning and the words at the bottom carry the most. Both facts follow from
+the same cause: a word that can be used anywhere ends up being used everywhere.
+
+A language takes words from its neighbours, and English has taken more than most. Anchor, cheese,
+and street came in from Latin very early. Sky, root, and egg came in from Norse. Mountain, river,
+and forest arrived from French, and in a number of cases sit beside an older word for something
+close to the same thing, so that the language ends up holding two names and putting them to
+slightly different uses. Sugar, cotton, and lemon came along trade routes from further off, and
+their spelling still shows something of the road they travelled. A borrowed word is not felt as
+foreign for long. Within a generation or two it takes the ordinary endings, forms an ordinary
+plural, and is used freely by speakers who would be surprised to learn it came from anywhere. This
+is how a vocabulary grows, and it is also why a list of the words in a language is never complete
+for very long.
+
+Short words are common and long words are rare, and the relation is close enough to be useful.
+The words a reader meets most often are nearly all of one syllable: the, of, and, to, in, is, it,
+that, was, for. Words of four syllables and more turn up a few times a page at most. This is not
+an accident of English. A word that is said constantly gets worn down by use, because every
+speaker shortens what every speaker already understands, and a word that is said rarely keeps its
+full shape because there is no wear on it. The same pressure works on phrases: what starts as a
+sentence becomes a phrase, the phrase becomes a word, and the word loses a syllable. Nothing
+plans this. It is the sum of a great many speakers each doing the least work that will still be
+understood, and the result is a vocabulary sorted by effort, with the cheapest words carrying the
+most traffic.
+
+One written form can carry two unrelated words, and a reader separates them without effort from
+what stands nearby. A bank is the side of a river and also a place that holds money. Spring is a
+season, a source of water, a coil of metal, and a sudden movement. Light is the opposite of dark
+and also the opposite of heavy. These are not shades of one meaning; they are separate words that
+happen to be spelled alike, and in several cases they arrived in the language from different
+directions centuries apart. What resolves them is never the word itself. "The bank was steep"
+and "the bank was closed" differ in one adjective, and that one adjective decides which of two
+words the reader has just met. A form on its own carries less than it appears to; the sentence
+around it supplies the rest, and it supplies it so quickly that a reader does not notice a
+decision was made.
+
+Writing and speech have drifted apart, and the drift shows in the spelling. The letters "ough"
+stand for six different sounds in though, through, rough, cough, bough, and thorough. A silent
+"e" at the end of a word changes the vowel before it: rat and rate, not and note, thin and thine.
+None of this was designed. Spelling was fixed by printers at one moment in the history of the
+pronunciation, and the pronunciation went on moving afterwards. What is left is a system that
+records how the language sounded several centuries ago, and that a child now has to learn as a
+list rather than as a rule.
+
+An alphabet is a small answer to a large problem. There are far more words in a language than
+anyone could give separate signs to, and there are far more possible words than have yet been
+said. But the number of distinct sounds is small--English uses about forty--and every word is a
+sequence drawn from that set. So a system that gives one sign to each sound needs a few dozen
+signs and can write anything that can be spoken, including words that do not exist yet. This is
+the most economical arrangement anyone has found for the purpose, and it appears to have been
+arrived at once; every alphabet now in use descends from a single ancestor.
+
+Not every system chose that unit. A sign can stand for a whole word, for a syllable, or for a
+single sound, and all three have been used at length and at scale. A word-sign system needs
+thousands of signs and a reader who has learned them all, but a page written in it is short, and
+it can be read by speakers who do not share a spoken language. A syllable system needs a few
+hundred signs. A sound system needs a few dozen and produces the longest written strings of the
+three. Each arrangement trades the size of the sign list against the length of the written line,
+and there is no setting of that trade which is best for every purpose. Systems in use today mix
+all three, and the mixing is not a failure of design. It is the ordinary result of a system that
+has to handle very common words quickly and very rare words at all.
+
+Asking how many words a language has turns out to be the wrong question, and it is instructive to
+see why. A large English dictionary lists something over half a million entries, but that number
+is a decision rather than a measurement. Does a plural count separately from its singular? Does a
+past tense? Does a compound that any speaker could build on the spot, or a technical name for one
+of the several million known species of insect? Each answer moves the total by a great deal. And
+against that half million, an educated adult speaker recognises perhaps thirty or forty thousand
+words and uses far fewer in ordinary speech. The gap is not a failing. A speaker does not need the
+whole list, because the words that carry the traffic are few and the rest can be worked out from
+their parts, looked up, or done without. Any system that has to handle a language faces the same
+choice the dictionary maker faces: how large a list to keep, and what to do about everything that
+falls outside it.
+
+Names are the hardest case for any such list. A common noun can be learned once and used for the
+rest of a life: stone means stone wherever it is met. But names are unlimited and they keep
+arriving. Every settlement, every river, every person, every ship and street and mountain carries
+one, and new ones are made constantly while old ones fall out of use. No list can hold them, and
+unlike ordinary words they cannot be worked out from their parts, because a name is not built out
+of meaning. Writing marks them with a capital in English and leaves it at that. Speech does not
+mark them at all, and a listener who has not heard a name before takes it in as a shape and waits
+for the sentence to say what kind of thing it is. This is the ordinary condition: a form arrives
+with no meaning attached, and everything the listener learns about it comes from what surrounds
+it.
+
+A dictionary is a list, and every list needs an order. Alphabetical order is the one that was
+settled on, and it is worth seeing how arbitrary it is. Nothing about "ash" makes it belong before
+"birch" except an agreement about the sequence of the letters, and that agreement is inherited
+from the shape of a sign list drawn up long before either word existed. The order does not group
+like with like. "Frost" sits beside "frost-bite" and "froth", which have nothing to do with one
+another, while "frost" and "ice" are pages apart. What alphabetical order gives up in meaning it
+wins back in searching: any word at all can be found by following a rule, without knowing
+anything whatever about what it means.
+
+A sentence can be put inside a sentence, and the putting can be repeated. "The stone fell" is one
+statement. "The stone that the water loosened fell" holds a second statement inside the first, and
+a reader has to keep the opening in mind across the whole of the insertion before the closing
+arrives. "The stone that the water that the frost had thawed loosened fell" is built by the same
+rule applied one more time, and it is very nearly unreadable, although nothing in it breaks any
+rule. This is worth noticing because the limit is not in the grammar. The grammar permits any
+depth at all. The limit is in how much of an unfinished structure a reader can hold open at once,
+and it turns out to be about two levels. A rule can be unlimited and still be unusable past a
+certain point, and the point is set by the reader rather than by the rule.
+
+Move a sentence into another language and something is always left behind. Some of what goes is
+sound: the rhythm goes, and any rhyme with it. Some of it is the shape of the grammar, because a
+language that marks the doer with an ending does not need the word order that English needs, so a
+translation into English has to commit to an order that the original never committed to. And some
+of it is simply that two vocabularies cut the world at different joints. A language spoken where
+snow lasts eight months of the year will have single words for kinds of snow that a translator
+can only render as a phrase, and the phrase is both longer and vaguer than the word it replaces.
+A translation can be exact about what was said. It cannot be exact about everything that was
+carried.
+
+A great deal of every sentence is never written down. "The rain stopped and the wind rose" does not
+say that the second thing happened in the same place as the first, or outdoors, or shortly
+afterwards; the reader supplies all of it. "Cold water, then warmer" is not a sentence at all by
+any strict account, and is perfectly clear. What makes this work is that a reader arrives already
+holding a set of expectations, so a writer has only to mark the places where those expectations
+fail. The consequence is that the same line means somewhat different things to readers who arrive
+holding different expectations, and no amount of care in the writing removes the dependence. A line
+carries less than it appears to. The rest is supplied from outside it, and the supplying leaves no
+trace on the page.
+
+What all of this describes is a system that nobody designed. There was no meeting at which the
+space between words was adopted, no committee that fixed the order in which adjectives stack, no
+decision to give the apostrophe two jobs and let readers sort it out. Each part was arrived at by
+many people solving a local problem, and the parts were kept because they worked well enough to
+be copied by the next person. The result is regular enough that its rules can be written down, and
+irregular enough that the writing down is never finished. A speaker of a language knows nearly all
+of it and can state almost none of it, and the distance between those two facts is where the study
+of language begins.
