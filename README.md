@@ -70,6 +70,7 @@ bu depo. Yani yalnız `.ipynb` dosyasını alıp Kaggle'a atsan da eksiksiz çal
 | `_data/how-words-work.txt` | ön eğitim korpusu |
 | `_data/instruction-data.json` | talimat verisi, 1100 kayıt |
 | `part-0-introduction/` | tanıtım videosunun anlatım haritası |
+| `part-1-big-picture/` | ders 1'in anlatım haritası |
 
 Anlatım haritaları **Excalidraw** dosyasıdır: sürükleyip bırakınca açılır, üstüne yazabilir,
 kendi notlarını ekleyebilirsin. Her bölümün haritası, o bölümün videosu yayımlandıkça
