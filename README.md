@@ -72,6 +72,7 @@ bu depo. Yani yalnız `.ipynb` dosyasını alıp Kaggle'a atsan da eksiksiz çal
 | `part-0-introduction/` | tanıtım videosunun anlatım haritası |
 | `part-1-big-picture/` | ders 1'in anlatım haritası |
 | `part-2-data-to-tensors/` | ders 2 ve 3'ün anlatım haritaları |
+| `part-3-attention/` | ders 4'ün anlatım haritası |
 
 Anlatım haritaları **Excalidraw** dosyasıdır: sürükleyip bırakınca açılır, üstüne yazabilir,
 kendi notlarını ekleyebilirsin. Her bölümün haritası, o bölümün videosu yayımlandıkça
