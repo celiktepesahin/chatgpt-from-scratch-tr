@@ -74,6 +74,7 @@ bu depo. Yani yalnız `.ipynb` dosyasını alıp Kaggle'a atsan da eksiksiz çal
 | `part-2-data-to-tensors/` | ders 2 ve 3'ün anlatım haritaları |
 | `part-3-attention/` | ders 4, 5 ve 6'nın anlatım haritaları |
 | `part-4-gpt-architecture/` | ders 7, 8 ve 9'un anlatım haritaları |
+| `part-5-training/` | ders 10'un anlatım haritası |
 
 Anlatım haritaları **Excalidraw** dosyasıdır: sürükleyip bırakınca açılır, üstüne yazabilir,
 kendi notlarını ekleyebilirsin. Her bölümün haritası, o bölümün videosu yayımlandıkça
