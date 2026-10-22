@@ -119,7 +119,6 @@ buraya eklenir.
 14. Classification Head ve Sınıflandırıcının Eğitimi
 15. Instruction Finetuning: Template, Maske, DataLoader
 16. Asistanı Eğit ve Cevaplarını Puanla
-17. Kapanış: Ne Yazdık, Sırada Ne Var
 
 ---
 
