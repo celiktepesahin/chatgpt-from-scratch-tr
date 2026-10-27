@@ -68,13 +68,14 @@ bu depo. Yani yalnız `.ipynb` dosyasını alıp Kaggle'a atsan da eksiksiz çal
 | --- | --- |
 | `FULL-SERIES.ipynb` | serinin bütün kodu, tek defter |
 | `_data/how-words-work.txt` | ön eğitim korpusu |
-| `_data/instruction-data.json` | talimat verisi, 1100 kayıt |
+| `_data/instruction-data.json` | talimat verisi, 1079 kayıt |
 | `part-0-introduction/` | tanıtım videosunun anlatım haritası |
 | `part-1-big-picture/` | ders 1'in anlatım haritası |
 | `part-2-data-to-tensors/` | ders 2 ve 3'ün anlatım haritaları |
 | `part-3-attention/` | ders 4, 5 ve 6'nın anlatım haritaları |
 | `part-4-gpt-architecture/` | ders 7, 8 ve 9'un anlatım haritaları |
 | `part-5-training/` | ders 10, 11 ve 12'nin anlatım haritaları |
+| `part-6-finetuning/` | ders 13'ün anlatım haritası |
 
 Anlatım haritaları **Excalidraw** dosyasıdır: sürükleyip bırakınca açılır, üstüne yazabilir,
 kendi notlarını ekleyebilirsin. Her bölümün haritası, o bölümün videosu yayımlandıkça
