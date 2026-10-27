@@ -100,11 +100,6 @@
         "output": "Forest, desert, and grassland."
     },
     {
-        "instruction": "Identify the climax in 'Romeo and Juliet'.",
-        "input": "",
-        "output": "The climax of 'Romeo and Juliet' occurs when Romeo kills Tybalt, leading to his banishment and the subsequent tragic events."
-    },
-    {
         "instruction": "Rewrite the sentence using a simile.",
         "input": "The dog is very loyal.",
         "output": "The dog is as loyal as a soldier."
@@ -263,11 +258,6 @@
         "instruction": "Correct the spelling error in the sentence.",
         "input": "I will atend the meeting tomorrow.",
         "output": "The correct spelling is 'attend', not 'atend'."
-    },
-    {
-        "instruction": "Arrange the following events in chronological order: World War II, French Revolution, Invention of the Telephone.",
-        "input": "",
-        "output": "1. French Revolution\n2. Invention of the Telephone\n3. World War II"
     },
     {
         "instruction": "What is the normal body temperature in Celsius?",
@@ -488,11 +478,6 @@
         "instruction": "Convert 300 seconds to minutes.",
         "input": "",
         "output": "300 seconds is equal to 5 minutes."
-    },
-    {
-        "instruction": "Name a novel written by Jane Austen.",
-        "input": "",
-        "output": "One of the novels written by Jane Austen is 'Pride and Prejudice'."
     },
     {
         "instruction": "Provide a synonym for 'kind'.",
@@ -953,11 +938,6 @@
         "instruction": "Convert this compound sentence to a complex sentence.",
         "input": "She likes coffee, and he likes tea.",
         "output": "She likes coffee while he likes tea."
-    },
-    {
-        "instruction": "Identify the antagonist in 'Harry Potter and the Sorcerer's Stone'.",
-        "input": "",
-        "output": "The antagonist in 'Harry Potter and the Sorcerer's Stone' is Voldemort."
     },
     {
         "instruction": "What is the capital of Sweden?",
@@ -1810,11 +1790,6 @@
         "output": "Personification is a figure of speech where human qualities are given to animals, objects, or ideas."
     },
     {
-        "instruction": "Identify the protagonist in the novel 'To Kill a Mockingbird'.",
-        "input": "",
-        "output": "The protagonist in 'To Kill a Mockingbird' is Scout Finch."
-    },
-    {
         "instruction": "What is the symbol for the chemical element gold?",
         "input": "",
         "output": "The symbol for the chemical element gold is Au."
@@ -2305,11 +2280,6 @@
         "output": "An example of alliteration is, 'Peter Piper picked a peck of pickled peppers.'"
     },
     {
-        "instruction": "What is the primary purpose of the United Nations?",
-        "input": "",
-        "output": "The primary purpose of the United Nations is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations."
-    },
-    {
         "instruction": "What is a synonym of 'astonishing'?",
         "input": "",
         "output": "A synonym for 'astonishing' is 'amazing'."
@@ -2538,11 +2508,6 @@
         "instruction": "Put the following words in alphabetical order: kitten, zebra, alligator.",
         "input": "",
         "output": "Alligator, kitten, zebra."
-    },
-    {
-        "instruction": "Identify the main theme in George Orwell's '1984'.",
-        "input": "",
-        "output": "The main theme of '1984' is the dangers of totalitarianism and oppressive government control."
     },
     {
         "instruction": "What is the capital of Germany?",
@@ -3005,11 +2970,6 @@
         "output": "The square root of 169 is 13."
     },
     {
-        "instruction": "Identify the genre of the book '1984' by George Orwell.",
-        "input": "",
-        "output": "The genre of '1984' by George Orwell is dystopian fiction."
-    },
-    {
         "instruction": "Convert 120 meters to kilometers.",
         "input": "",
         "output": "120 meters is 0.12 kilometers."
@@ -3158,11 +3118,6 @@
         "instruction": "Rewrite the sentence using a metaphor.",
         "input": "The night is very peaceful.",
         "output": "The night is a blanket of calm."
-    },
-    {
-        "instruction": "Identify the protagonist in 'The Great Gatsby'.",
-        "input": "",
-        "output": "The protagonist of 'The Great Gatsby' is Jay Gatsby."
     },
     {
         "instruction": "Categorize the following items into one of the following categories: tool, clothing, or fruit.",
@@ -3363,11 +3318,6 @@
         "instruction": "Rewrite this English sentence into passive voice.",
         "input": "The gardener planted the flowers.",
         "output": "The flowers were planted by the gardener."
-    },
-    {
-        "instruction": "Convert the active sentence to passive: 'We celebrate Independence Day on July 4th.'",
-        "input": "",
-        "output": "Independence Day is celebrated on July 4th."
     },
     {
         "instruction": "Convert 800 grams to kilograms.",
@@ -3605,11 +3555,6 @@
         "output": "A synonym for the word 'begin' could be 'start.'"
     },
     {
-        "instruction": "Define the term 'democracy'.",
-        "input": "",
-        "output": "Democracy is a system of government where the citizens exercise power by voting. It typically features fair and free elections, protection of human rights, and the rule of law."
-    },
-    {
         "instruction": "What is the opposite of 'expensive'?",
         "input": "",
         "output": "The opposite of 'expensive' is 'cheap'."
@@ -3693,11 +3638,6 @@
         "instruction": "What is the chemical symbol for iron?",
         "input": "",
         "output": "The chemical symbol for iron is Fe."
-    },
-    {
-        "instruction": "Identify the setting in 'The Great Gatsby'.",
-        "input": "",
-        "output": "The setting of 'The Great Gatsby' is in the fictional towns of West Egg and East Egg on Long Island in the summer of 1922."
     },
     {
         "instruction": "Rewrite the following sentence so that it is in passive voice.",
@@ -3885,11 +3825,6 @@
         "output": "The pH value of pure water at 25°C is 7."
     },
     {
-        "instruction": "Arrange these historical periods in chronological order: Middle Ages, Renaissance, Industrial Revolution.",
-        "input": "",
-        "output": "1. Middle Ages\n2. Renaissance\n3. Industrial Revolution"
-    },
-    {
         "instruction": "Find a synonym for the word 'start'.",
         "input": "",
         "output": "A synonym for the word 'start' could be \"commence.\""
@@ -3903,11 +3838,6 @@
         "instruction": "Name three types of clouds.",
         "input": "",
         "output": "Three types of clouds are cumulus, stratus, and cirrus."
-    },
-    {
-        "instruction": "Identify the tone used in the poem 'The Road Not Taken' by Robert Frost.",
-        "input": "",
-        "output": "The tone of 'The Road Not Taken' is reflective and contemplative, as the speaker considers the choices made in life and their long-term impacts."
     },
     {
         "instruction": "Change this sentence into the past perfect continuous tense.",
@@ -3938,16 +3868,6 @@
         "instruction": "Rewrite the sentence using a metaphor.",
         "input": "The room was very small.",
         "output": "The room was a shoebox."
-    },
-    {
-        "instruction": "Arrange the following events in chronological order: First Moon Landing, French Revolution, Industrial Revolution.",
-        "input": "",
-        "output": "1. French Revolution\n2. Industrial Revolution\n3. First Moon Landing"
-    },
-    {
-        "instruction": "What is the capital of the United States?",
-        "input": "",
-        "output": "The capital of the United States is Washington, D.C."
     },
     {
         "instruction": "Describe the main function of the human skeletal system.",
@@ -4065,11 +3985,6 @@
         "output": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It converts carbon dioxide and water into glucose and oxygen."
     },
     {
-        "instruction": "Arrange the following events in chronological order: Invention of the airplane, Fall of the Berlin Wall, Discovery of America.",
-        "input": "",
-        "output": "1. Discovery of America\n2. Invention of the airplane\n3. Fall of the Berlin Wall"
-    },
-    {
         "instruction": "Determine the gravitational force acting on an object with a mass of 10 kg on Earth.",
         "input": "",
         "output": "The gravitational force acting on an object with a mass of 10 kg on Earth is approximately 98 newtons."
@@ -4103,11 +4018,6 @@
         "instruction": "Identify the theme of the story.",
         "input": "The Tortoise and the Hare",
         "output": "The theme of the story is that slow and steady wins the race."
-    },
-    {
-        "instruction": "Arrange these historical periods in chronological order: Renaissance, Roman Empire, Victorian Era.",
-        "input": "",
-        "output": "1. Roman Empire\n2. Renaissance\n3. Victorian Era"
     },
     {
         "instruction": "Convert the following sentence to use a relative clause: The man is a teacher. He lives next door.",
@@ -4198,11 +4108,6 @@
         "instruction": "Convert the phrase into a complete sentence.",
         "input": "night sky",
         "output": "The night sky was dotted with countless twinkling stars."
-    },
-    {
-        "instruction": "Name the three branches of the United States government.",
-        "input": "",
-        "output": "The three branches of the United States government are the Executive, the Legislative, and the Judicial branches."
     },
     {
         "instruction": "Convert the angle from radians to degrees.",
@@ -4550,11 +4455,6 @@
         "output": "They were finishing the game."
     },
     {
-        "instruction": "Summarize the theme of 'The Great Gatsby'.",
-        "input": "",
-        "output": "The theme revolves around the American Dream and its disillusionment."
-    },
-    {
         "instruction": "Delete the redundant words in the following sentence.",
         "input": "We went to see to the mountains.",
         "output": "We went to see the mountains."
@@ -4683,11 +4583,6 @@
         "instruction": "What type of cloud is typically associated with thunderstorms?",
         "input": "",
         "output": "The type of cloud typically associated with thunderstorms is cumulonimbus."
-    },
-    {
-        "instruction": "Name the author of 'Pride and Prejudice'.",
-        "input": "",
-        "output": "Jane Austen."
     },
     {
         "instruction": "What is the periodic symbol for chlorine?",
